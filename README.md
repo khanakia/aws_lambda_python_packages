@@ -4,7 +4,7 @@ After searching around for a few hours, I cannot seem to find what I'm looking f
 
 I needed access to the package in a lambda function however I have been unsuccessful finding  the pandas and numpy packages for usage in a Lambda function.
 
-So i decided to build the libraries myself to support he Amazon Linux 2 arch.
+So i decided to build the libraries myself to support the Amazon Linux 2 arch.
 
 ..................
 
